@@ -1,0 +1,15 @@
+- List of things to do -
+
+Geometry:
+
+[x] Read DAE file and import triangles, vertices and coordinates unit and axes reference.
+[ ] Read materials from DAE file.
+[x] Read contour lines from DAE file.
+[ ] Read polygons if no triangles are found.
+[ ] Provide statistics about loaded data.
+[ ] Refactor into a Python module.
+
+Ray-tracing:
+
+[ ] Build task divider and commander to distribute and them and receive the results.
+[ ] 
