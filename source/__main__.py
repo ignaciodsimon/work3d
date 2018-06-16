@@ -10,8 +10,8 @@ from logger import *
 # ROOM_GEOMETRY_FILENAME = 'Simple+house.dae'
 # ROOM_GEOMETRY_FILENAME = 'design.dae'
 # ROOM_GEOMETRY_FILENAME = 'boxy_box.dae'
-ROOM_GEOMETRY_FILENAME = 'another_test.dae'
-ROOM_GEOMETRY_FILENAME = 'boxy_box_materials_colors.dae'
+# ROOM_GEOMETRY_FILENAME = 'another_test.dae'
+ROOM_GEOMETRY_FILENAME = 'examples/boxy_box_materials_colors.dae'
 
 if __name__ == "__main__":
 
