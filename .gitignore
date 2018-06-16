@@ -1,3 +1,6 @@
+# Ignore the log file generated
+log.txt
+
 # MAC
 .DS_Store
 
