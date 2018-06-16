@@ -84,7 +84,7 @@ class Logger():
         # if LOG_TO_HTML_FILE:
         #     self._htmlFile.close()
         # Close HTML log file
-         self.log(level=LogLevel.Info, text="-------------------------------------", ommitPreTrace=True)
+        self.log(level=LogLevel.Info, text="-------------------------------------", ommitPreTrace=True)
         self.log(level=LogLevel.Info, text="----      Session finished        ---", ommitPreTrace=True)
         self.log(level=LogLevel.Info, text="-------------------------------------", ommitPreTrace=True)
         self._isClosed = True
